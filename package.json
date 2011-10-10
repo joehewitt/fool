@@ -10,7 +10,8 @@
   "keywords": ["oo"],
   "author": "Joe Hewitt <joe@joehewitt.com>",
   "contributors": [],
-  "dependencies": {      
+  "dependencies": {     
+    "underscore": "" 
   },
   "engines": { "node": ">=0.4.0" },
   "main": "./lib/fool",
