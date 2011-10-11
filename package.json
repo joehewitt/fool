@@ -1,19 +1,24 @@
 {
   "name": "fool",
   "description": "Fake object-oriented library",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "homepage": "http://github.com/joehewitt/fool",
   "repository": {
-      "type": "git",
-      "url" : "http://github.com/joehewitt/fool.git"
+    "type": "git",
+    "url": "git://github.com/joehewitt/fool.git"
   },
-  "keywords": ["oo"],
+  "keywords": [
+    "oo"
+  ],
   "author": "Joe Hewitt <joe@joehewitt.com>",
   "contributors": [],
-  "dependencies": {     
-    "underscore": "" 
+  "dependencies": {
+    "underscore": ""
   },
-  "engines": { "node": ">=0.4.0" },
+  "engines": {
+    "node": ">=0.4.0"
+  },
   "main": "./lib/fool",
-  "directories": {}
+  "directories": {},
+  "devDependencies": {}
 }
