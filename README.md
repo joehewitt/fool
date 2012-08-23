@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/joehewitt/fool.png)](http://travis-ci.org/joehewitt/fool)
 fool
 ========
 
