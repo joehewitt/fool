@@ -1,7 +1,7 @@
 {
   "name": "fool",
   "description": "Fake object-oriented library",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "http://github.com/joehewitt/fool",
   "repository": {
     "type": "git",
